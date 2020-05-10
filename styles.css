@@ -1,0 +1,40 @@
+section {
+     background-color: #E0FFFF;
+    padding: 10px;
+}
+
+h1 {
+  color: #4682B4;
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align: center;
+  font-size: 48;
+}
+h3{
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align: center;
+  font-size: 52;
+  color: #708090;
+}
+h2 {
+  color: #4682B4;
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align: center;
+  font-size: 36;
+}
+
+img {
+  display: inline-grid;
+  padding: 40px;
+  justify-content: space-around;
+  width: 25%;
+  height: auto;
+}
+.photos {
+  background-color: #FFFAFA;
+  outline: 5px dotted #708090;
+  margin-top: 10px;
+}
+
+div {
+margin-left: 40px;
+}
